@@ -1,0 +1,15 @@
+package com.mycompany.ejercicion82;
+
+/**
+ *
+ * @author juanj
+ */
+public class EjercicioN82 {
+
+    public static void main(String[] args) {
+        Ventanaprincipal formulario = new Ventanaprincipal();
+        formulario.setResizable(false
+        );
+        formulario.setVisible(true);
+    }
+}
