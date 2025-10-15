@@ -1,0 +1,15 @@
+package com.mycompany.ejercicion83;
+
+/**
+ *
+ * @author juanj
+ */
+public class EjercicioN83 {
+
+    public static void main(String[] args) {
+        Ventanaprincipal miVentanaPrincipal;
+        miVentanaPrincipal= new Ventanaprincipal(); 
+        miVentanaPrincipal.setVisible(true);
+        miVentanaPrincipal.setResizable(false);
+    }
+}
